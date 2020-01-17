@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.7.0](https://github.com/nuxt-community/nuxt-generate-cluster/compare/v2.6.1...v2.7.0) (2020-01-17)
+
+
+### Features
+
+* add beforeWorkers hook ([d161968](https://github.com/nuxt-community/nuxt-generate-cluster/commit/d1619689913af63ad0be3a1d90df423df3c022ea))
+
 ### [2.6.1](https://github.com/nuxt-community/nuxt-generate-cluster/compare/v2.6.0...v2.6.1) (2020-01-16)
 
 # [2.6.0](https://github.com/nuxt-community/nuxt-generate-cluster/compare/v2.4.1...v2.6.0) (2019-04-11)
